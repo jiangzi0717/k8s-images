@@ -1,2 +1,2 @@
-FROM  mysql:9.0
+FROM  docker.io/library/mysql:5.7
 MAINTAINER cyan
